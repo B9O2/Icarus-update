@@ -1,0 +1,38 @@
+<darwin>
+    <amd64>
+        <download></download>
+    </amd64>
+</darwin>
+
+<windows>
+    <i386>
+        <download></download>
+    </i386>
+</windows>
+
+<detail>
+    <l>
+        <type>center</type>
+        <color>CYAN</color>
+        <default>ICARUS自动更新测试</default>
+        <zh_CN></zh_CN>
+    </l>
+    
+    <l>
+        <color>WHITE</color>
+        <default>更新</default>
+    </l>
+
+    <l>
+        <perm>darwin</perm>
+        <color>RED</color>
+        <default>!Darwin!</default>
+    </l>
+
+    <l>
+        <perm>linux,windows</perm>
+        <type>endl</type>
+        <color>WHITE</color>
+        <default>更新</default>
+    </l>
+</detail>
